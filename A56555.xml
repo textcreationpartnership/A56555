@@ -1,0 +1,288 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sinners arraignment; or, The life, death and judgment of stubborn and incorrigible sinners Wherein first is plainly set forth and described the certainty of their death: as also many pithy arguments to perswade men to prepare for it, lest they fall unawares into the great condemnation. Together with a pithy discourse of the last and great judgment, with a discovery of the judge, the judged, and the manner of the pronouncing sentence, the confusion of sinners before the judgement seat, being full of terrour and amazement; as also followed on with many directions to sinners. which, if followed, they may escape the sentence of, Go ye cursed, &amp;c. With some consolations for saints, who have overcome the second death, and may appear with boldnesse at the great day and receive their sentence of, Come ye blessed, &amp;c. By T.P.</title>
+            <author>Passenger, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56555</idno>
+            <idno type="STC">Wing P658E</idno>
+            <idno type="STC">ESTC R216912</idno>
+            <idno type="EEBO-CITATION">99828626</idno>
+            <idno type="PROQUEST">99828626</idno>
+            <idno type="VID">33057</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56555)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33057)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1956:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sinners arraignment; or, The life, death and judgment of stubborn and incorrigible sinners Wherein first is plainly set forth and described the certainty of their death: as also many pithy arguments to perswade men to prepare for it, lest they fall unawares into the great condemnation. Together with a pithy discourse of the last and great judgment, with a discovery of the judge, the judged, and the manner of the pronouncing sentence, the confusion of sinners before the judgement seat, being full of terrour and amazement; as also followed on with many directions to sinners. which, if followed, they may escape the sentence of, Go ye cursed, &amp;c. With some consolations for saints, who have overcome the second death, and may appear with boldnesse at the great day and receive their sentence of, Come ye blessed, &amp;c. By T.P.</title>
+                  <author>Passenger, Thomas.</author>
+               </titleStmt>
+               <extent>[2], 21, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Passinger, at the three Bibles on London-Bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>T.P. = Thomas Passenger.</note>
+                  <note>Advertisement on final leaf.</note>
+                  <note>Formerly Wing P659A.</note>
+                  <note>Text in black letter.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sin --  Early works to 1800.</term>
+               <term>Salvation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33057:1" rendition="simple:additions"/>
+            <pb facs="tcp:33057:1" rendition="simple:additions"/>
+            <p>The Sinners ARRAIGNMENT; OR, The Life, Death and Judgment of ſtub<g ref="char:EOLhyphen"/>born and Incorrigible Sinners.</p>
+            <p>Wherein firſt is plainly ſet forth and deſcri<g ref="char:EOLhyphen"/>ſcribed the Certainty of their Death: As alſo many pithy Arguments to perſwade men to prepare for it, leſt they fall unawares into the Great Condemnation.</p>
+            <p>Together with a Pithy Diſcourſe of the laſt and great Judgment, with a diſcovery of the Judge, the judged, and the manner of the pronouncing Sen<g ref="char:EOLhyphen"/>tence, the Confuſion of ſinners before the Judge<g ref="char:EOLhyphen"/>ment-Seat, being full of Terrour and Amaze<g ref="char:EOLhyphen"/>ment; as alſo followed on with many Di<g ref="char:EOLhyphen"/>rections to ſinners, which, if followed, they may eſcape the Sentence of, <hi>Go ye Curſed,</hi> &amp;c.</p>
+            <p>With ſome Conſolations for Saints, who have overcome the ſecond Death, and may appear with boldneſſe at the great Day and Receive their Sentence of, <hi>Come ye bleſſed, &amp;c.</hi>
+            </p>
+            <p>By <hi>T. P.</hi>
+            </p>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>Rom. 6.23.</hi>
+                  </bibl> For the wages of ſin is Death, but the gift of God is eternal Life through Jeſus Christ our Lord.</p>
+               <p>
+                  <bibl>
+                     <hi>Pſalm 1.5.</hi>
+                  </bibl> Therefore the ungodly ſhall not stand in the Judgment, nor ſinners in the Congregation of the Righ<g ref="char:EOLhyphen"/>teous.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Paſſinger,</hi> at the three Bibles on <hi>London-Bridge.</hi> 1668.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:33057:2"/>
+            <pb n="1" facs="tcp:33057:2" rendition="simple:additions"/>
+            <head>The Sinners Arraignment.</head>
+            <epigraph>
+               <q>
+                  <bibl>Heb. 9.27.</bibl>
+                  <p>And it is appointed to men once to dye, but after death to Judgment.</p>
+               </q>
+            </epigraph>
+            <p>THe greateſt concern of men in this Life ought to be to ſtudy ſo to Live as they might not be afraid to dye; Now that death is the Lot and por<g ref="char:EOLhyphen"/>tion of all mankind, both Scripture and Example do ſufficiently evince to us. In the handling of theſe words, I ſhall not on<g ref="char:EOLhyphen"/>ly ſhew that it is the Lords Decrée and ap<g ref="char:EOLhyphen"/>pointment for men once to dye. but alſo preſs on ſome wholſome Counſels and Ex<g ref="char:EOLhyphen"/>hortations to poor ſinful ſouls to prepare for Death and Iudgment. I ſhall not touch at all upon the fore-going words, but come im<g ref="char:EOLhyphen"/>mediatly to the Text, and from them draw theſe two Obſervations, <hi>viz.</hi>
+            </p>
+            <p n="1">1 Doct. <hi>That though Death to poor un<g ref="char:EOLhyphen"/>regenerate ſouls be terrible, yet being the
+<pb n="2" facs="tcp:33057:3"/>
+Decree and Appointment of God, which is immutable, it is certain.</hi>
+            </p>
+            <p n="2">2 Doct. <hi>That after Death comes Judg<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <p>To begin with the firſt, which I ſhall give you two or thrée Scriptures to prove, and a few Motives or Arguments to ſtir you up to prepare for Death; &amp; then briefly apply it. The Text it ſelf is plain enough to prove it to be a truth, that it is Gods Decrée and Appointment: 1 <hi>Sam.</hi> 2.6. <hi>The Lord killeth and maketh alive, he bringeth down to the grave and bringeth up.</hi> Ezek. 18.4. <hi>Behold, all ſouls are mine, as the ſoul of the Father, ſo alſo the ſoul of the Son is mine; the ſoul that ſinneth it ſhall dye. Pſalm</hi> 82.7. <hi>But ye ſhall dye like men, and fall like one of the Princes.</hi>
+            </p>
+            <p>Death is the certain Lot and Portion of all both good and bad, ſinners and Saints, wicked and godly, but bleſſed are the dead who dye in the Lord, happy is their ſtate and condition, they are but gone to their deſired home, to an eternal Manſion, to the everlaſting and full fruition of God who is the chiefeſt Good, but the wicked ſhall goe down to his own place, the wicked ſhall be turned into Hell and all the Nations that forget God. But to come to the Motives to move you to prepare for Death, and they are ſuch as theſe:</p>
+            <p n="1">
+               <pb n="3" facs="tcp:33057:3"/>1 <hi>Motive.</hi> To prevail with you to pre<g ref="char:EOLhyphen"/>pare for Death. Conſider the death of the Righteous and the death of the wicked, ſée what the Scripture ſpeaks of both, though it may be in your Life-time you will not perceive the vaſt difference betwéen the one and the other, yet when Death comes to ſtare you in the face, when the King of ter<g ref="char:EOLhyphen"/>rors comes and hangs your head over the Grave and your mouth over Hell, then you will know and perceive that it's better to dye the Death of the Righteous than the Death of the wicked, &amp;c. <hi>Pſalm</hi> 11. <hi>v.</hi> 6. <hi>Upon the wicked he ſhall rain ſnares, fire and brimſtone and an horrible tempeſt, this ſhall be the portion of their Cup.</hi>
+            </p>
+            <p n="2">2. Conſider where is the place or what is the condition of the ſoul after Death. If thou dye in thy ſins, whether doth Death hurry the ſouls of the ungodly on a ſudden in a moment in the twinkling of an Eye, even into the preſence of God, there to receive their definitive Sentence, its preſently ad<g ref="char:EOLhyphen"/>judged either to everlaſting Ioy, or to ever<g ref="char:EOLhyphen"/>laſting Torment. Oh unpardoned ſinners and unrenewed ſouls, Death will be your paſſage to everlaſtins miſery; Oh could but Guilty ungodly hearts be ſure that there is no more Iuſtice to take hold on them after Death, no more pain, nor ſorrow to be felt
+<pb n="4" facs="tcp:33057:4"/>
+after Death, but that man dye as a beaſt, that he hath no more to féel, or Loſe; Death then might be a tollerable evil, but its a Living Death and a dying Life, and endleſs Woe and unſpeakable Torment to which Death leads the guilty ſoul; The utter darkneſſe, the unquenchable fire, the Worm that dy<g ref="char:EOLhyphen"/>eth not, the everlaſting flames of the wrath of God; Theſe are the chief horrors and ſtings of Death.</p>
+            <p n="3">3. Conſider Death as our enemy, the which if it do not excite us to prepare for it, certainly then the fore-knowledge of it muſt néeds encreaſe our miſery, its an ene<g ref="char:EOLhyphen"/>my to Nature; It cuts men off before they have lived half their dayes. A beaſt that knows not he muſt dye, is not tormented with the fear of Death; but man knows he muſt dye: We may ſée Graves and wéeping Friends every day, and we cannot but know aſſuredly wée muſt encounter with this E<g ref="char:EOLhyphen"/>nemy, and that we ſhall be foiled by him. Now to come to Application, the Vſes are two onely: 1. For Exhortation, 2. For Conſolation.</p>
+            <p n="1">1. I exhort Sinners this Day in the Name and fear of the great and Eternal God to provide themſelves of a Sanctuary and a ſure Refuge for their ſouls againſt the day and hour of Death. All men with <hi>Ba<g ref="char:EOLhyphen"/>laam</hi>
+               <pb n="5" facs="tcp:33057:4"/>
+deſire to dye the death of the Righte<g ref="char:EOLhyphen"/>ous, oh but how few endeavour to live the Life of the Righteous; and that you may truly prepare for Death, be firſt exhorted to avoid the occaſion, to wit, Sin. Sin brought Death into the World with it: Oh fooliſh man, wilt thou ſtill love ſuch a mortal ene<g ref="char:EOLhyphen"/>my? If a man ſhould Rob thée of a groat, or defame thée, how hardly wouldſt thou be reconciled to him, but oh ſoul ſin deprives thée of thy Life, and ſeparates thy ſoul and body in ſunder, and forfeiteth thy everlaſt-happineſſe? and canſt thou love that which will undo thée? take héed of jetting at the Door of Hell, drive not away thy own Sal<g ref="char:EOLhyphen"/>vation, harden not thy heart againſt the fear of God; had it not béen for Sin wée had néeded no Coffin or Winding-ſhéet, nor have béen beholding to a Grave to hide our Car<g ref="char:EOLhyphen"/>caſſes from the ſight and ſmel of the Living, but as <hi>Enoch</hi> and <hi>Elias</hi> were Tranſlated when they walked with God, even ſo ſhould we: Oh then ſinners, uſe ſin as that will uſe you, ſpare it not, for it will not ſpare you, it is your murderer, and its the mur<g ref="char:EOLhyphen"/>derer of the World; uſe it therefore as a Murderer ſhould be uſed, kill it before it kill you, and then though it kill your bo<g ref="char:EOLhyphen"/>dies, it ſhall not be able to kill your ſouls.</p>
+            <p>If the thoughts of Death, and the Grave,
+<pb n="6" facs="tcp:33057:5"/>
+and Rottenneſſe be not pleaſant to you, Oh let not the Thoughts of ſin be pleaſant to you, let this be your Motto <hi>(Memento mori)</hi> you love not Death, love not the cauſe of Death; Is it nothing to be dead in Treſpaſſes and ſins: Oh what a Poiſon is this that kils ſo many millions, that can never be cured but by the blood of Chriſt; Oh unbelieving ſtupid ſouls that ſmart and ſin, groan and ſin, and wéep and lament over bodily Diſeaſes and ſufferings, of which ſin is the Cauſe, and yet ſin ſtill; What, fear a Grave, and fear not ſin, which will not onely ſend the body to the Grave, but the ſoul to Hell; What pains and pleaſure doſt thou take, Oh ſilly ſoul in working the work of wickedneſs? Doſt thou not believe the Scripture the Word of the everlaſting God that tels you the wages of ſin is Death, <hi>viz.</hi> temporal and eternal? Canſt thou ſtare and gaze that King of ter<g ref="char:EOLhyphen"/>rors in the face with Confidence without a firm and well grounded Faith of thy inter<g ref="char:EOLhyphen"/>eſt in the Lord Ieſus. Conſider thy dan<g ref="char:EOLhyphen"/>ger oh Sinner whilſt without God in the World, and an Alian to the Common<g ref="char:EOLhyphen"/>wealth of Iſrael at the moment of thy Death. Beware of the great damnation, Can you hang your mouth over Hell by the ſingle thread of a frail Life, which you know
+<pb n="7" facs="tcp:33057:5"/>
+not how ſoon you may loſe, and Death may in a moment ſnap aſunder and then you are loſt irrecoverably; whilſt under the power and Dominion of ſin you are in danger of damnation every day; Oh dreadful, what at the brink of hell, and not ſée it; at the ve<g ref="char:EOLhyphen"/>ry borders of the Lake of brimſtone and not tremble, almoſt within the hearing of bitter ſhrieking and roaring of damned ſouls, and yet ſecure. In the fear of God let this ex<g ref="char:EOLhyphen"/>hort you whilſt it is called to Day to hear the Lords voyce, and not harden your hearts: What ſecurity can you have when you know not but you may dye to morrow, I charge you in the name of the Living God, that you reſt no longer in a careleſs carnal ſecu<g ref="char:EOLhyphen"/>rity, ſéeing the Door is yet open, and Death has not yet cloſed your eyes: Return to your God, for in your Fathers Houſe are many Manſions.</p>
+            <p n="2">2 <hi>Uſe.</hi> For Conſolation to the Saints, to them who are born from above, and have gotten the victory over the ſecond death: here is a word of comfort from y<hi rend="sup">e</hi> God of comfort to ſuch ſouls; Oh, <hi>bleſſed are the dead that die in the Lord, for they reſt from their la<g ref="char:EOLhyphen"/>bors &amp; their works follow them, Rev.</hi> 14.13. <hi>You who are dead to ſin are alive to God,</hi> 2 <hi>Pet.</hi> 2.24. Rejoyce, oh ſoul, thy name is written in the Book of Life, God hath
+<pb n="8" facs="tcp:33057:6"/>
+choſen you and ſet you upon his heart, and the ſinner ſhall not intermedle with your Ioy. Let Reprobates and fooles paſſed by, ſtand trembling; and be filled with hor<g ref="char:EOLhyphen"/>ror at the approaches of Death, but rather let it be your joy, for then your joy ſhall be full, Death will be to the Saints but as a Tranſportation, not into bondage, but into fréedome; for here can thoſe fetch their comfort in that they have peace with God, and union with Chriſt, and the aſſurance of the pardon of their ſins, and the impu<g ref="char:EOLhyphen"/>tation of Chriſts Righteouſneſſe to them: they can comfortably conclude that the ſting of Death is taken from them. When a Believer looks upon himſelf as a dying man, will not this delight his ſoul that Death comes peaceably to him. If God be a Believers Friend, Death is ſo alſo, <hi>Out of the Eater comes forth meat,</hi> yea, there is a food in Death for every believing ſoul; Death is the Chariot to carry the ſoul into everlaſting Glory; As for the wicked it ſtings them to death for ever, but it doth but lay you aſleep; it is an in-let to their real miſery, but its but an out-let from your preſent trouble, and an in-let to your future happineſſe, for God hears an e<g ref="char:EOLhyphen"/>ſpecial love to you, oh Saints and Servants of the moſt high God; for he hath loved you
+<pb n="9" facs="tcp:33057:6"/>
+from Eternity with a Love on purpoſe to do you good; O then delight your ſouls here, and comfort your ſelves with theſe words, that though you muſt go down to the Grave, yet you ſhall not goe down to Hell. The ſecond Death ſhall have no power over you, though you muſt be reckoned among the Dead, yet you ſhall not be reckoned a<g ref="char:EOLhyphen"/>mong the damned, when you are going to your Grave, you are not going to eternal darkneſſe, but to God who is Light, for your Surety having paid the debt for you, and ſa<g ref="char:EOLhyphen"/>tisfied Gods Iuſtice, at death you ſhall be received into your Maſters Ioy. Now I come to the ſecond Doctrine.</p>
+            <p n="2">2 Doct. <hi>After Death comes Judge<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <p>The words of the Text are ſufficient to prove this Truth, but I ſhall give a Scri<g ref="char:EOLhyphen"/>pture or two more, <hi>Romans</hi> 14. <hi>v.</hi> 10, <hi>We ſhall all ſtand before the Judgment-ſeat of Chriſt</hi> 1 Pet. 4. <hi>v.</hi> 5. <hi>Who ſhall give an Account to him that is ready to Judge the Quick and Dead;</hi> nothing more plain than this Truth. Therefore we will enquire a little, 1. Who ſhall be the Iudge; and 2dly, Who ſhall be judged, and then briefly apply the whole.</p>
+            <p n="1">1. <hi>VVho ſhall be the Judge?</hi>
+            </p>
+            <p>I Anſwer, God himſelf by Ieſus Chriſt.</p>
+            <p n="1">
+               <pb n="10" facs="tcp:33057:7"/>1. Principally God as Creator.</p>
+            <p n="2">2. As alſo, God as Redéemer; the humane nature of Ieſus Chriſt, having a derived and ſubordinate Power. God loſt not his right to his Creature, either by mans fall, or the Redemption by Chriſt, but by the latter hath a new further Right, but it is in and by Chriſt that God Iudgeth; for as méer Creator of Innocent man God judgeth none, but hath committed all Iudgment to the Son, who hath procured this Right by the redéeming of fallen Man, as it is in <hi>John</hi> 5, <hi>v.</hi> 22. But yet as the Son judgeth in the néereſt ſenſe, ſo the Father doth it principal<g ref="char:EOLhyphen"/>ly, in that the power of the Son is derived from the Father, and ſo ſtandeth in ſubor<g ref="char:EOLhyphen"/>dination to him as Fountain or Efficient. Well then ſinners, though you may hide your Cauſe from men, yet you cannot hide your Cauſe from God, though Devils may be ignorant of your caſe, yet God knows your thoughts afar off; but</p>
+            <p>Secondly, <hi>VVho are thoſe that muſt be judged?</hi>
+            </p>
+            <p>For anſwer, All, every man or woman that hath béen born upon the earth; but the firſt in order to be judged ſhall be the Saints, and then with Chriſt they ſhall judge the reſt of the VVorld: the Princes of the World ſhall ſtand before Chriſt even as the Pea<g ref="char:EOLhyphen"/>ſants.
+<pb n="11" facs="tcp:33057:7"/>
+the honourable as the baſe and poor ſhall all méet together, and the Lord ſhall Iudge them all: But to apply the whole, the Vſes ſhall be thrée.</p>
+            <list>
+               <item>1. <hi>For Examination.</hi>
+               </item>
+               <item>2. <hi>For Terror and Aſtoniſhment.</hi>
+               </item>
+               <item>3. <hi>For Exhortation.</hi>—</item>
+            </list>
+            <p>Becauſe I Chiefly here intend to ſpeak to Sinners, and if the Lord pleaſe to ſet home his Word with power to ſome hearts, it may tend to a waken ſecure ſinners.</p>
+            <p n="1">1. <hi>For Examination and Tryal. Oh ſin<g ref="char:EOLhyphen"/>ner, Ask thy ſoul theſe queſtions:</hi>
+            </p>
+            <p n="1">1. Doſt thou ſoundly believe the Do<g ref="char:EOLhyphen"/>ctrine which has béen proved by Scripture, <hi>viz. That after Death comes Judgment?</hi> What ſay you Sirs? Do you verily be<g ref="char:EOLhyphen"/>lieve that you and I muſt ſtand at Gods Bar and be judged to everlaſting Ioy or Tor<g ref="char:EOLhyphen"/>ment; when I ſée more Infidelity than Faith among us, it makes me jealous whe<g ref="char:EOLhyphen"/>ther you do firmly believe it or no? What are the effects of your Faith? do you pre<g ref="char:EOLhyphen"/>pare to look God in the face, and that with comfort? It is the expreſs word of the God of Truth revealed in his Word, <hi>Matth.</hi> 13.38, 39 40, 41, <hi>&amp;c.</hi> and <hi>Matth.</hi> 25. through<g ref="char:EOLhyphen"/>out, <hi>John</hi> 5.28. <hi>&amp;</hi> 29. <hi>The hour is com<g ref="char:EOLhyphen"/>ing, in which all that are in their Graves ſhall hear his Voyce and ſhall come forth,
+<pb n="12" facs="tcp:33057:8"/>
+they that have done good to the Reſurrecti<g ref="char:EOLhyphen"/>on of Life, and they that have done evil to the Reſurrection of damnation.</hi> Rom. 14.9.12. <hi>So every one of us ſhall give ac<g ref="char:EOLhyphen"/>count of himſelf to God;</hi> It is as ſure as the Word of the Living God can make it, and dare you doubt of the truth of it? Oh then confirm your ſouls in the beliefe of this as if you had heard Chriſt, or an Angel from Heaven ſay to you, Oh man, thou art haſting to Iudgment.</p>
+            <p n="2">2. Examine your ſouls, and ask this Queſtion; whether you do ſoberly conſider of this great Day, and are ſeriouſly affect<g ref="char:EOLhyphen"/>ed with the conſideration of it? Oh ſouls, do you when you are alone uſe to think how certain and how dreadful it will be, and how faſt its coming on, and what anſwer you ſhall make at that Day? Alaſs Sirs, is this a matter to be forgotten, nay, are you not worſe than mad, when you are going to Gods Iudgment and never think of i? Let theſe words be often in your thoughts; <hi>Ariſe ye dead and come to Judgement;</hi> you have warning of it from God and man, for the Lords ſake dont forget it. Some men may have heard of this Day by the Miniſtry of the Word 20. 30. 40 years to<g ref="char:EOLhyphen"/>gether, and the Preacher hath told them it was at hand; now to talk of a day of Iudg<g ref="char:EOLhyphen"/>ment,
+<pb n="13" facs="tcp:33057:8"/>
+and they all this while ſée it not nor féel any hurt by it, they think it is but talk, and ſo make nothing of it, and this is all the thanks they give to God for his patience, &amp; long ſuffering, becauſe entence is not ſpée<g ref="char:EOLhyphen"/>dily executed, therefore their hearts are ſet in them to do evil.</p>
+            <p n="3">3. You who are not ready, or in a condi<g ref="char:EOLhyphen"/>tion whereby you may be ſafe at that day; I would ask this Queſtion, How you are reſolved to prepare for Iudgment for the time to come? will you do no more than you have done hitherto, or will you ſet your ſelves with all your might to make prepa<g ref="char:EOLhyphen"/>ration for ſo great a Day? Oh that I could hear you ſay, Lord direct us what to do; Oh that there were ſuch hearts in you, that you were truly willing to ſerve the Lord. If ever you would look the Lord Ie<g ref="char:EOLhyphen"/>ſus Chriſt in the face with comfort at the hour of death, or day of Iudgment, make ready, and make it the buſineſſe of your lives to provide for everlaſting.</p>
+            <p n="4">4 Queſtion. Did you ever ſet upon your hearts the dreadful evil and mighty weight of ſin, and the miſery which it will bring ſouls to, and didſt ever ſée the néed of a Deliverer; if not, dreadful will be the day of Iudgment to your ſouls, better for you you had never béen born, for a ſoul to ap<g ref="char:EOLhyphen"/>pear
+<pb n="14" facs="tcp:33057:9"/>
+in the preſence of God cloathed with the ugly garments of ſin and ſorrow, and there to ſée him to ſit as Iudge to condemn him for ever to eternal darkneſſe, who would have béen thy Lord and Saviour, thy Deliverer and Redéemer, who would have Redéemed thée from eternal Death and ſa<g ref="char:EOLhyphen"/>ved thée to a better Life. Oh this will migh<g ref="char:EOLhyphen"/>tily aſtoniſh thée.</p>
+            <p n="2">2 Vſe. <hi>Is for terrour and aſtoniſhment.</hi>
+            </p>
+            <p>The execution of this Iudgment is ſo Certain that nothing is more Certain; no ſooner is the dreadful Sentence paſt upon ſinners but away they muſt be gone: There is no delay, much leſſe any Reprieve to be expected; nor no hope of eſcape, (if the Iudge once ſay, take him Iaylor); ſo if Chriſt once ſay, Take him Devil, You that ruled and deceived him, now torment him; Oh ſoul, after this all the World cannot reſcue you, it will be in vain to look about for help; Alas, there is none but Chriſt can help, and he will not, becauſe you refuſed his help. It will be in vain now to cry to the Hills to fall on you, and the Mountains to cover you from the preſence of him that ſits on the Throne; It will be in vain now to Repent and wiſh you had not ſlight<g ref="char:EOLhyphen"/>ed your ſalvation, nor ſolo it for a little pleaſure to your fleſh; It will be in vain to
+<pb n="15" facs="tcp:33057:9"/>
+cry, <hi>Lord, Lord, open to us, Oh ſpare us, Oh pity us, Oh do not caſt us into theſe hideous flames, do not turn us among De<g ref="char:EOLhyphen"/>vils, do not torment us in theſe hideous flames.</hi> Conſider how fearful the caſe of that man will be that is newly doomed to the everlaſting fire, that is haled to the Exe<g ref="char:EOLhyphen"/>cution without Remedy; Oh then, what mad men are they who doe nothing to prevent ſuch a miſery. The Time was when Re<g ref="char:EOLhyphen"/>pentance would have done thée good, but then all thy Repentings will be in vain while the day of thy Viſitation laſteth, hadſt thou but a heart to pray and Cry for mercy in Faith and fervency through Chriſt thou mightſt be ſaved, but then Prayers and Crying will do no good, ſhouldſt thou roar out in the ex<g ref="char:EOLhyphen"/>tremity of thy horror and amazement, and beſéech but the Lord Ieſus to forgive thée but one ſin, or to ſend thée on earth once more to try how thou wouldſt Live, all would be in vain; do not Wonder or Think ſuch that Chriſt will not then be entreated by thée, you ſhall then have a <hi>Remember</hi> from Chriſt, or a Conſcience, he will ſoon ſtop thy mouth and leave thée ſpéechleſſe, and ſay, Remember, I did one day ſend thée a Meſſage of Peace, and thou wouldſt not hear it; I did once ſtoop to beſéech thée to <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rn, and thou wouldſt not ſtoop; I beſought
+<pb n="14" facs="tcp:33057:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:33057:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="16" facs="tcp:33057:11"/>
+thée by the tender mercies of God, and all would not do, yea by my holy Life and my curſed Death, by the Riches of my Grace, by the Offers of my Glory, yet I could not get thée to forſake the World, the Fleſh, or one beloved ſin; I bid thée return and live, but now 'tis too late, my ſentence is paſt and cannot be recalled, Away from me thou worker of Iniquity. Oh how can wée without trembling of heart once think of the condition that ſuch forlorn Wretches will be in, when they look above them and ſée the God that hath forſaken them, becauſe they forſook him firſt: When they look on the one hand, and ſée the Saints whom they have deſpiſed now ſentenced into Glo<g ref="char:EOLhyphen"/>ry, and the Wicked on the other hand whom they have accompanied and Imitated, now Iudged with them to everlaſting miſery. When they look below them, and ſée the flames they muſt abide in for evermore and when the Devils begin to hale to the Exe<g ref="char:EOLhyphen"/>cution; Oh poor ſoules, now what would they give for a Chriſt, or for a time of Re<g ref="char:EOLhyphen"/>pentance, but 'tis too late, the Door is ſhut, and they ſhut out, 'tis now no time for mer<g ref="char:EOLhyphen"/>cy.</p>
+            <p n="3">3 <hi>Uſe. Shall be for Exhortation.</hi> I ex<g ref="char:EOLhyphen"/>hort you this day, as ever you would look the Lord Ieſus Chriſt in the face at the hour of
+<pb n="17" facs="tcp:33057:11"/>
+death, or day of Iudgement with comfort, to make ſure of your intereſt in Chriſt, and that you may obſerve a right manner I ſhal leave with you a few Directions.</p>
+            <p n="1">1. Be ſure to do all your works as men that muſt be judged for them: before you venture on any particular action, enquire whether it will bear weight in Iudgement; Oh that you would remember when temp<g ref="char:EOLhyphen"/>tations are upon you. When you are tempt<g ref="char:EOLhyphen"/>ed to give up your minds to the world, and drown your ſelf in earthly cares: bethink your ſelf ſoberly, whether you would hear of this at Iudgement, whether it would ſtand tryal at the Great Day, or no: When you are tempted to be drunk, or to ſpend your precious time in Ale-houſes, or vain and unprofitable Company, or at Cards or Dice, or other ſinful néedleſſe ſports, be<g ref="char:EOLhyphen"/>think your ſelves, whether this will be comfortable at the day of Reckoning, and whether time be no more worth to one that is ſo near Eternity, and muſt give ſo ſtrict an Account of his hours: Oh Remember we muſt be judged according to what we have done, and give an account of every Ta<g ref="char:EOLhyphen"/>lent we receive.</p>
+            <p n="2">2 <hi>Direct.</hi> Get Faith and Repentance wrought in your ſouls, and reſolve upon the breaking off former ſinful courſes. Sée<g ref="char:EOLhyphen"/>ing
+<pb n="18" facs="tcp:33057:12"/>
+theſe Changes muſt be made, and theſe Graces muſt be had or thou muſt certainly periſh; In the fear of God ſée thou give no eaſe to thy mind till thou art thorowly changed, be content with nothing till this be done, delay not another day: get Faith which is the gift of God, ſtand faſt in the Faith, quit your ſelves like men and be ſtrong, 1 <hi>Corinth.</hi> 16. <hi>ver.</hi> 13. <hi>Without Faith it is impoſſible to pleaſe God. Heb.</hi> 10. <hi>ver.</hi> 6. and then Repent from your dead works. How canſt thou live merrily, or ſléep quietly in a carnal condition? If thou ſhouldſt dye without Repentance, thou wouldſt periſh for ever; Oh then what wilt thou do at Iudgement? Be zealous there<g ref="char:EOLhyphen"/>fore and Repent, <hi>Revel.</hi> 3. <hi>ver.</hi> 19. <hi>Except ye repent, ye ſhall all likewiſe periſh. Luke</hi> 13. <hi>verſ.</hi> 3. Oh, ſéeing every hour thou art uncertain of ſéeing another hour, thou maiſt be preſently ſnatcht away by Death; Methinks, whilſt thou art in ſo ſad a caſe which way ſoever thou art going, whatever thou art doing: It ſhould ſtill come to thy thoughts, Oh what if I ſhould dye &amp; come to the eternal and laſt Iudgement before I be regenerate and have part in Chriſt.</p>
+            <p n="3">3. Eſtabliſh your ſouls in the ſincere belief of this Iudgement and everlaſting Fire. If you do not ſoundly believe, you
+<pb n="19" facs="tcp:33057:12"/>
+will not ſeriouſly prepare for it; Vnbelief ſhuts out the moſt of the world from Heaven, ſhut not your eyes againſt the Light, believe it, leſt you unawares come to féel it, for the Lord Ieſus ſhall be revealed from Heaven with his mighty Angels in flaming fire ta<g ref="char:EOLhyphen"/>king vengeance on them who know not God, and obey not the Goſpel of our Lord Ieſus, who ſhall be puniſhed with everlaſting de<g ref="char:EOLhyphen"/>ſtruction from the preſence of the Lord, and the glory of his Power, even then ſhall he come to be glorified in his Saints, and to be admired in all them who believe. Oh, did men believe the Doom would be ſo dreadful, the Puniſhment ſo ſure, the Torment ſo te<g ref="char:EOLhyphen"/>dious, the Place ſo hot, and the durance of it everlaſting, they would never live as they do, in Chambering and in Wantonneſſe, in Whoring and in Drunkenneſs, <hi>Rom.</hi> 13.13. Did they believe it, we ſhould not hear ſo many Oaths ſworn in our Stréets, nor the Name of God ſo vilely blaſphéemed as it is this day. Well ſinners, think of theſe things, now, it will be too late hereafter, time is ſpending to day, therefore if thou wilt hear the Lords Voyce harden not your hearts.</p>
+            <p n="4">4. And laſtly, Think, Oh ſoul, of the ſud<g ref="char:EOLhyphen"/>denneſſe of this day, and of the quick diſpatch God will make with ſinners thereon: the Apoſtles in their day, did bid people <hi>Repent,</hi>
+               <pb n="20" facs="tcp:33057:13"/>
+uſing this Argument, <hi>the day of the Lord was at hand,</hi> much more near muſt it be now, when ſo many of thoſe Signs are fulfilled which our Saviour ſpoke of in the 24. of St. <hi>Matthew,</hi> it wil alſo come unexpectedly before many ſinners are aware, 1 <hi>Theſ.</hi> 5. <hi>v.</hi> 2.3. <hi>For you your ſelvs know that the day of the Lord cometh as a Thief in the night, for when they ſhall ſay peace, peace, then deſtruction cometh upon them as travail upon a Wo<g ref="char:EOLhyphen"/>man, and they ſhall not eſcape;</hi> It will take ſinners away in their ſin, yea in the very act: Oh ſinner, God hath appointed one time, one way for thy deliverance, and if thou fail in that one, thou periſheſt for ever, and all the world cannot help you afterward, 2 <hi>Cor.</hi> 6. <hi>verſ.</hi> 2. <hi>I have heard thee in a time accepted, in a day of ſalvation have I favoured thee;</hi> Well then ſinners, come &amp; yield, before God come to Iudge, for Iudg<g ref="char:EOLhyphen"/>ment is near, even at the door, and the Lord will make quick work, <hi>the hour is coming, in which all they who are in their graves ſhall hear his voice and come forth, they that have done good to the reſurrection of life, &amp; they that have done evil to the reſurrection of damnation, Joh.</hi> 5.28. <hi>&amp;</hi> 29. And now I am concluding this Point. I have ſpent ſo much time in the ſpeaking to ſinners, (which the Lord grant may be ſet home to ſome hearts,
+<pb n="21" facs="tcp:33057:13"/>
+that they may prepare for that great &amp; Ter<g ref="char:EOLhyphen"/>rible Day) that I have not room left to leave a Cordial to the Saints, onely cloſe up all with one terrifying Scripture or two: <hi>Mat.</hi> 25. <hi>v.</hi> 30. <hi>Caſt the unprofitable ſervant into utter darkneſs, there ſhall be weeping and gnaſhing of teeth. Mat.</hi> 7. <hi>v.</hi> 21. <hi>Not every one that ſaith Lord, Lord, ſhall enter into the Kingdome of Heaven, but he that doth the will of my Father which is in Heaven. Rev.</hi> 22. <hi>v.</hi> 14. <hi>Bleſſed are they that do his Commandments that they may have right to the tree of Life, and may enter in by the Gate to the City;</hi> which that poor ſinners may make haſt to do, is the prayer of him who is deſirous of their Salvation.</p>
+            <closer>
+               <signed>T. P.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Books ſold by <hi>Thomas Paſſenger,</hi> at the Three Bibles on <hi>London-Bridge.</hi>
+            </head>
+            <list>
+               <item>THe Wiſe Merchant, Or, The Peerleſs Pearl. By <hi>T. Calvert<g ref="char:punc">▪</g>
+                  </hi> Miniſter of Gods Word in the City of <hi>York.</hi>
+               </item>
+               <item>The Chriſtian Combat: Or his true Spi<g ref="char:EOLhyphen"/>ritual warfare. By <hi>C. Love,</hi> late Miniſter of Gods Word in the City of <hi>London.</hi>
+               </item>
+               <item>The Book of Graces, with Prayers for Morning and Evening: All but three pence a piece.</item>
+               <item>The Sinners Warning-piece: Or, Heavens
+<pb facs="tcp:33057:14"/>
+Meſſenger. By <hi>Tho. Robins</hi> B. of D.</item>
+               <item>Mans chief Guide to Salvation. By <hi>T. R.</hi> B. of D.</item>
+               <item>The Scholars Winter Garment: Or, The Garment of Righteouſneſs. By <hi>T.R.</hi> Batche<g ref="char:EOLhyphen"/>lor of Divinity.</item>
+               <item>
+                  <hi>Englands</hi> Golden Legacy: Or, A brief De<g ref="char:EOLhyphen"/>ſcription of the Mercies of God beſtowed up<g ref="char:EOLhyphen"/>on <hi>England.</hi> By <hi>L. P.</hi>
+               </item>
+               <item>A Wonder of Wonders: Or, Gods People the Worlds VVonder. By <hi>R. Hough.</hi>
+               </item>
+               <item>Gods Meſſage from Heaven, to Sinners on Earth. By <hi>T. P.</hi> B. of D. L.</item>
+               <item>The School of Learning: Being Prayers for Morning and Evening, for every day in the week; with Graces before and after Meat, and a ſhort Catechiſm for Children.</item>
+               <item>The Vertuous Wife is the glory of her Husband: Being a new Book, ſhewing the rare qualities of the truly vertuous woman.</item>
+               <item>Now or Never: work out your Salvation with fear and trembling, &amp;c.</item>
+               <item>Gods Call to unconverted Sinners.</item>
+               <item>The School of Patience.</item>
+               <item>The Door of Salvation opened.</item>
+               <item>Englands Warning, or Englands ſorrow for Londons miſery.</item>
+               <item>Theſe thirteen laſt are but two pence a<g ref="char:EOLhyphen"/>piece, and very ſeaſonable for theſe ſinful times, in which we live.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33057:14"/>
+         </div>
+      </back>
+   </text>
+</TEI>
